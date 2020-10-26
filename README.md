@@ -1,0 +1,2 @@
+# Detikcom
+aplikasi detikcom
